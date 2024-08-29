@@ -1,3 +1,8 @@
+### Custom Ingnore ###
+.idea
+/src/webapp/WEB-INF
+
+### target ###
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
