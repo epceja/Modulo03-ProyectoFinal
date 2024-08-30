@@ -5,6 +5,14 @@ body {
   color: #333;
 }
 
+#mensaje-inicial{
+    width: 800px;
+    padding: 20px;
+    background-color: #d1fafe;
+    border-style: groove;
+    border-color: #00dadb;
+}
+
 #datos-juego{
     background-color: #f1f1ff;
     width: 200px;
@@ -25,6 +33,8 @@ body {
 input[type=button], input[type=submit], input[type=reset] {
   background-color: #0068aa;
   border: none;
+  margin-top: 30px;
+  margin-bottom: 30px;
   border-radius: 15%;
   color: white;
   font-size: 16;
@@ -35,5 +45,8 @@ input[type=button], input[type=submit], input[type=reset] {
 }
 
 input[type=name]{
-    font-size: 14;
+    font-size: 16;
+    widht: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
