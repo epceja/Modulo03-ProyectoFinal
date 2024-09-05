@@ -11,7 +11,7 @@
         <h2>¿Vas a subir al puente del Capitán?</h2>
         <form method="POST" action="/proyecto-final/reto-aceptado">
             <fieldset id="opciones-desafio">
-              <legend>Elige con cuidado, ¡tu vida está en juego!</legend>
+              <legend>Elige con cuidado, vas a estar con el Capitán</legend>
 
               <div>
                 <input type="radio" id="si-puente" name="subir-puente" value="true" checked />
